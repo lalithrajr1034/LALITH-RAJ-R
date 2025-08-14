@@ -1,4 +1,4 @@
-<h2 align="center">Hello world!!  I am Lalith Raj R and I'm a CSE(AI) Student<br>AI Enthusiast from India</h2>
+<h2 align="center">Hello world!!👐 I am Lalith Raj R and I'm a CSE(AI) Student<br>AI Enthusiast from India</h2>
 <div align="center"><br>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
